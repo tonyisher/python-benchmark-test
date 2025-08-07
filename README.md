@@ -19,6 +19,12 @@ Install the only dependency with:
 pip install psutil
 ```
 
+or:
+
+```bash
+pip install -r requirements.txt
+```
+
 This script uses only built-in libraries except for `psutil`.
 
 ---
